@@ -16,13 +16,53 @@
 
 ---
 
-<!-- IMAGES: Add screenshots to docs/about/ and match filenames below. -->
+<!-- SLIDESHOW: click arrows to browse screenshots (GitHub-rendered) -->
 
 <p align="center">
-  <img src="docs/about/hero-home.png" alt="8ein Sport — home / hero (add your screenshot)" width="720" />
+  <b>📸 App Preview — scroll through the screenshots below</b>
 </p>
 
-<p align="center"><em>Replace <code>docs/about/hero-home.png</code> with your file — same folder for all preview images.</em></p>
+<details open><summary><b>1 / 7 — Home</b></summary>
+<p align="center">
+  <img src="docs/about/8-home.JPG" alt="8ein Sport — Home" width="720" />
+</p>
+</details>
+
+<details><summary><b>2 / 7 — Home (alternate)</b></summary>
+<p align="center">
+  <img src="docs/about/8-home2.JPG" alt="8ein Sport — Home alternate view" width="720" />
+</p>
+</details>
+
+<details><summary><b>3 / 7 — Match Card</b></summary>
+<p align="center">
+  <img src="docs/about/8-match card.JPG" alt="8ein Sport — Match Card" width="720" />
+</p>
+</details>
+
+<details><summary><b>4 / 7 — Streaming Player</b></summary>
+<p align="center">
+  <img src="docs/about/8-streaam_play.JPG" alt="8ein Sport — Streaming Player" width="720" />
+</p>
+</details>
+
+<details><summary><b>5 / 7 — Channels</b></summary>
+<p align="center">
+  <img src="docs/about/8-channels.JPG" alt="8ein Sport — Channels" width="720" />
+</p>
+</details>
+
+<details><summary><b>6 / 7 — Channels (alternate)</b></summary>
+<p align="center">
+  <img src="docs/about/8-channels2.JPG" alt="8ein Sport — Channels alternate view" width="720" />
+</p>
+</details>
+
+<details><summary><b>7 / 7 — DMCA</b></summary>
+<p align="center">
+  <img src="docs/about/8-dmca.JPG" alt="8ein Sport — DMCA page" width="720" />
+</p>
+</details>
 
 ---
 
@@ -134,4 +174,4 @@ The north star is a **single surface** that respects your time: **entertainment*
 
 ---
 
-*Image placeholders: add files under `docs/about/` or update paths above.*
+*Screenshots are stored under `docs/about/`.*
